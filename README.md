@@ -1,18 +1,27 @@
 # mini-calendar
-Overview: This repository contains a mini calendar application built with HTML and styled with CSS. The project showcases a clean and responsive calendar interface designed for simplicity and user-friendly navigation.
 
-Features:
+📅 Mini Calendar
 
-Displays days of the month in a structured and intuitive layout.
+The Mini Calendar is a lightweight and visually appealing web component designed using pure HTML and CSS. This project is perfect for beginners who want to practice front-end development and learn how to build visually structured layouts without JavaScript.
 
-Basic styling for enhanced readability and aesthetics using a style.css file.
+🌟 Key Features
+- Displays the current month and days of the week
+- Highlights today’s date for easy reference
+- Fully responsive layout that adapts to different screen sizes
+- Clean and modern UI design
+- Built with semantic HTML and custom CSS styling
+- Easily customizable for personal or professional use
 
-Responsive design to adapt seamlessly to various screen sizes.
+🛠 Technologies Used
+- HTML – for the calendar structure and content
+- CSS – for styling, layout, and responsiveness
 
-Easily customizable for additional functionality or styling preferences.
+📂 Files Included
+- index.html – The main HTML file that structures the calendar
+- style.css – CSS file that styles and formats the calendar
 
-Technologies Used:
-
-HTML: Provides the structure and content for the calendar interface.
-
-CSS: Applied through the style.css file to enhance appearance and improve user experience.
+📚 What You'll Learn
+- How to use CSS Grid/Flexbox to create layouts
+- Styling text and elements using typography and spacing
+- Responsiveness using media queries
+- Using HTML elements like div, span, header, etc., effectively
